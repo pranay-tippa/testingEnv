@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p43162-e177398.adobeaemcloud.com/bin/franklin.delivery/pranay-tippa/testingEnv/main
+    type: "markup"
+    suffix: ".html"
